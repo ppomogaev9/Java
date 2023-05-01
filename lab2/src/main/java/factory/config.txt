@@ -1,0 +1,10 @@
+DEFINE commands.Define
+PRINT commands.Print
+SQRT commands.Sqrt
+PUSH commands.Push
+POP commands.Pop
++ commands.Plus
+- commands.Minus
+* commands.Multiplicate
+/ commands.Divide
+# commands.Comment
